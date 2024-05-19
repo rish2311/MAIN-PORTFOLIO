@@ -11,7 +11,6 @@ import { SparklesIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 
 const HeroContent = () => {
-  const portfolio = "<portfolio/>";
   return (
     <motion.div
       initial="hidden"
@@ -36,7 +35,7 @@ const HeroContent = () => {
           <span>
             Providing&nbsp; the best &nbsp;
             <span className="text-transparent  bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              {portfolio} <br />
+              portfolio &nbsp;
             </span>
             exprience
           </span>

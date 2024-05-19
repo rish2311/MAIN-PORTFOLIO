@@ -36,7 +36,9 @@ const Navbar = () => {
               Projects
             </a>
             <a
-              href="https://drive.google.com/file/d/1XHrQy3RZ7kVSdh8xCiQkpCxKo8D_6X6j/view?usp=drive_link"
+              href="
+              https://drive.google.com/file/d/1S_9uUvSCgBxY1eYIDsKvp4g3F4Yc2zTa/view
+              "
               className="cursor-pointer"
             >
               Resume
