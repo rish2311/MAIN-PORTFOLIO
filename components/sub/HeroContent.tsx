@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Rishabh Mehrotra Portfolio
+            Rishabh Mehrotra's Portfolio
           </h1>
         </motion.div>
 
@@ -35,9 +35,9 @@ const HeroContent = () => {
           <span>
             Providing&nbsp; the best &nbsp;
             <span className="text-transparent  bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              portfolio &nbsp;
+              Portfolio &nbsp;
             </span>
-            exprience
+            experience
           </span>
         </motion.div>
 
@@ -45,8 +45,8 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg  text-gray-400 my-5 max-w-[600px]"
         >
-          Hi, I am Rishabh Mehrotra and I&apos;m a Full Stack Software Engineer
-          with expertise in Web & Mobile App Development.
+          Hi, I am Rishabh Mehrotra and I&apos;m a Full Stack Software Developer
+          with expertise in Web Development.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}

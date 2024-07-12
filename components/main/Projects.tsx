@@ -17,21 +17,14 @@ const Projects = () => {
           target="_blank"
         >
           <ProjectCard
-            src="/face-project1.webp"
-            title="Medicine Recommender System"
+            src="/https://img.freepik.com/free-photo/thrift-shop_53876-18005.jpg?size=626&ext=jpg"
+            title="Thrift Shop"
             description="
-          Spearheaded the development and implementation of an advanced attendance system leveraging state-of-the-art image
-          detection and face recognition algorithms.
-          Successfully increased efficiency and accuracy in attendance monitoring processes by eliminating manual data entry
-          errors and streamlining attendance management workflows.
-          
+          A dynamic E-commerce web application with single-page rendering. Reduced query times and utilized Redux for efficient state management. Developed a robust backend with Express & Node.js, optimized MongoDB schema, and integrated secure payment APIs
           "
           />
         </a>
-        <a
-          href="https://github.com/imrishabhmehrotra/Medicine-Recommender-System"
-          target="_blank"
-        >
+        <a href="https://github.com/rish2311/ThriftShop" target="_blank">
           <ProjectCard
             src="/medicine-project2.png"
             title="Medicine Recommender System"
@@ -42,15 +35,11 @@ const Projects = () => {
           the overall user experience."
           />
         </a>
-        <a href="https://github.com/imrishabhmehrotra/CHATSHAT" target="_blank">
+        <a href="https://chat-cord-eight.vercel.app/" target="_blank">
           <ProjectCard
             src="/chat-shat-project3.jpeg"
-            title="ChatShat"
-            description="
-            Chatting app allows you to communicate with your customers in web chat rooms.
-          Full stack Chat Application for real time interaction between users.
-          Led the development of a real-time full-stack chat application using React.js, Redux Toolkit, Node.js, and Express.js.
-          The app enables fast and seamless real-time interaction between users."
+            title="Chatify"
+            description="Developed a frontend chat application for real-time interaction using VoIP. A robust real-time messaging system with Socket.io, supporting video conferencing and peer-to-peer communication. Reduced message delivery latency, thus, improving overall user experience. The app enables fast and seamless real-time interaction between users."
           />
         </a>
       </div>
