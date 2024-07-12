@@ -20,7 +20,7 @@ const Footer = () => {
       <center>
         <div className="pb-10 z-40">
           <div
-            className=" flex items-center justify-center flex-col h-full w-full"
+            className="flex items-center justify-center flex-col h-full w-full"
             id="about-me"
           >
             <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-10">
@@ -63,10 +63,10 @@ const Footer = () => {
       </center>
       <br />
       <br />
-      <div className="lg:hidden fixed bottom-0 left-[25%]  md:flex sm:flex z-20  flex items-center justify-center gap-x-5 pb-5    ">
-        <div className=" z-20  w-[500px] h-full flex flex-row items-center justify-between md:mr-20">
-          <div className="z-20  flex items-center justify-between  mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200 w-full h-auto border border-[#7042f861] bg-[#0300145e]  ">
-            <a href="#about-me" className="cursor-pointer ">
+      <div className="lg:hidden fixed bottom-0 left-[25%] md:flex sm:flex z-20 flex items-center justify-center gap-x-5 pb-5">
+        <div className="z-20 w-[500px] h-full flex flex-row items-center justify-between md:mr-20">
+          <div className="z-20 flex items-center justify-between mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200 w-full h-auto border border-[#7042f861] bg-[#0300145e]">
+            <a href="#about-me" className="cursor-pointer">
               About me
             </a>
             <a href="#skills" className="cursor-pointer">
@@ -76,9 +76,7 @@ const Footer = () => {
               Projects
             </a>
             <a
-              href="
-              https://drive.google.com/file/d/1G6-IkkVh-jgLBhYXII039KGR9XkIlsJA/view?pli=1
-              "
+              href="https://drive.google.com/file/d/1G6-IkkVh-jgLBhYXII039KGR9XkIlsJA/view?pli=1"
               className="cursor-pointer"
             >
               Resume
