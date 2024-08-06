@@ -13,7 +13,7 @@ const Projects = () => {
       </h1>
       <div className="h-full z-30   w-full flex flex-col md:flex-row gap-10 px-10">
         <a
-          href="https://github.com/imrishabhmehrotra/Face-Recognition-Attendence-Project"
+          href="https://github.com//Face-Recognition-Attendence-Project"
           target="_blank"
         >
           <ProjectCard

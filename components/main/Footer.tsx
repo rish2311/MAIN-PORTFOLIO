@@ -41,7 +41,7 @@ const Footer = () => {
             <div className="z-40">
               {showGithub && (
                 <GitHubCalendar
-                  username="imrishabhmehrotra"
+                  username="rish2311"
                   blockSize={15}
                   blockMargin={4}
                   fontSize={20}

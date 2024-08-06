@@ -75,7 +75,7 @@ export const Socials = [
   {
     name: "Github",
     src: "/github.svg",
-    onclick: "https://github.com/imrishabhmehrotra",
+    onclick: "https://github.com/rish2311",
   },
 ];
 
