@@ -17,7 +17,7 @@ const Projects = () => {
           target="_blank"
         >
           <ProjectCard
-            src="/https://img.freepik.com/free-photo/thrift-shop_53876-18005.jpg?size=626&ext=jpg"
+            src="https://img.freepik.com/free-photo/thrift-shop_53876-18005.jpg?size=626&ext=jpg"
             title="Thrift Shop"
             description="
           A dynamic E-commerce web application with single-page rendering. Reduced query times and utilized Redux for efficient state management. Developed a robust backend with Express & Node.js, optimized MongoDB schema, and integrated secure payment APIs
